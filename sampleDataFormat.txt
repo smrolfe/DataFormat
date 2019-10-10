@@ -19,15 +19,15 @@ Subject data:
 	Reconstruction type:
 
 Annotations:
- Total annotation nodes: 5
+ Total annotation nodes: 6
  Number of fiducial nodes:3
  Number of angle nodes: 1
  Number of line nodes: 0
  Number of open curve nodes: 1
- Number of closed curve nodes: 0
+ Number of closed curve nodes: 1
  Number of ROI nodes: 0 
  PointData: 
-  	size: 125
+  	size: 140
 	dataType: vtkFloatArray
 	point_data:[array of points]
  Annotations:
@@ -56,7 +56,16 @@ Annotations:
 	nodeType: OpenCurveNode
  	name: curve_1
 	curve length: 122mm
-	number of points: 47
 	number of control points: 10 
 	point_index:[array of point indexes]
 	notes: anatomical name
+	
+	annotationIndex: 5
+	nodeType: ClosedCurveNode
+ 	name: curve_2
+	curve length: 242mm
+	surface area: 18641.5mm^2
+	number of control points: 15 
+	point_index:[array of point indexes]
+	notes: anatomical region name
+	
