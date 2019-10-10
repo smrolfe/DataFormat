@@ -1,0 +1,62 @@
+Session data:
+	Username: srolfe
+	Date time: 2019-10-09_13_41_13
+	Computer info: MacOS Mojave
+	Software versions: 4.11.0-2019-09-25 r28523
+
+Subject data:
+	Specimen Number: S598
+	Museum Catalog (Accession) Number: MNH M188156
+	iDigBio UUID:  https://www.idigbio.org/portal/records/47a34afd-ebc8-4163-af61-f88e6c50ce49#attribution 
+	Scan URL: https://www.morphosource.org/Detail/SpecimenDetail/Show/specimen_id/598 
+	Genus: Lagothrix
+	Species: lagotricha
+	Sex: M
+	Locality:
+	Genotype:
+	Mutation: Car12Tn(sb-T2/GT2/tTA)1.1Dla
+	Scan type: mCT
+	Reconstruction type:
+
+Annotations:
+ Total annotation nodes: 5
+ Number of fiducial nodes:3
+ Number of angle nodes: 1
+ Number of line nodes: 0
+ Number of open curve nodes: 1
+ Number of closed curve nodes: 0
+ Number of ROI nodes: 0 
+ PointData: 
+  	size: 125
+	dataType: vtkFloatArray
+	point_data:[array of points]
+ Annotations:
+ 	annotationIndex: 0
+	nodeType: FiducialNode
+ 	name: Landmark_points_1
+	size: 90
+	point_index:[array of point indexes]
+	notes: Landmark points for alignment
+	
+ 	annotationIndex: 1
+	nodeType: FiducialNode
+ 	name: Landmark_points_2
+	size: 22
+	point_index:[array of point indexes]
+	notes: Landmark points for measurement 
+	
+ 	annotationIndex: 2
+	nodeType: AngleNode
+ 	name: angle_1
+	angle: 45 degrees
+	point_index:[array of point indexes]
+	notes: quantity being measured 	
+	
+ 	annotationIndex: 4
+	nodeType: OpenCurveNode
+ 	name: curve_1
+	curve length: 122mm
+	number of points: 47
+	number of control points: 10 
+	point_index:[array of point indexes]
+	notes: anatomical name
