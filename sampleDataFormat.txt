@@ -8,7 +8,7 @@ Subject data:
 	Specimen Number: S598
 	Museum Catalog (Accession) Number: AMNH-M188156
 	iDigBio UUID:  https://www.idigbio.org/portal/records/47a34afd-ebc8-4163-af61-f88e6c50ce49#attribution 
-	Scan URL: https://www.morphosource.org/Detail/SpecimenDetail/Show/specimen_id/598 
+	Scan URL: https://www.morphosource.org/Detail/MediaDetail/Show/media_id/2095 
 	Genus: Lagothrix
 	Species: lagotricha
 	Sex: M
