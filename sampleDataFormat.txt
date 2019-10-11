@@ -14,9 +14,10 @@ Subject data:
 	Sex: M
 	Locality:
 	Genotype:
-	Mutation: Car12Tn(sb-T2/GT2/tTA)1.1Dla
+	Mutation: wild-type
 	Scan type: mCT
 	Reconstruction type:
+	Coordinate System: LPS
 
 Annotations:
  Total annotation nodes: 6
