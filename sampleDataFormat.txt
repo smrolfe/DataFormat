@@ -7,12 +7,13 @@ Session data:
 Subject data:
 	Specimen Number: S598
 	Museum Catalog (Accession) Number: AMNH-M188156
-	iDigBio UUID:  https://www.idigbio.org/portal/records/47a34afd-ebc8-4163-af61-f88e6c50ce49#attribution 
+	iDigBio UUID:  https://www.idigbio.org/portal/records/47a34afd-ebc8-4163-af61-f88e6c50ce49
+	Occurrence ID: urn:catalog:AMNH:Mammals:M-188156
 	Scan URL: https://www.morphosource.org/Detail/MediaDetail/Show/media_id/2095 
 	Genus: Lagothrix
 	Species: lagotricha
-	Sex: M
-	Locality:
+	Sex: F
+	Locality: Yanayaquillo
 	Genotype:
 	Mutation: wild-type
 	Scan type: mCT
